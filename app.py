@@ -24,7 +24,7 @@ if user_id:
         if st.button("Guardar perfil"):
             save_user_data(user_id, name, company, membership)
             st.success("✅ Perfil guardado correctamente. ¡Ya puedes rellenar tu presentación semanal!")
-            st.experimental_rerun()
+            st.rerun()
     else:
         st.subheader(f"Bienvenido, {user_data['name']} de {user_data['company']} ({user_data['membership']})")
 
