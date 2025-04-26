@@ -1,0 +1,7 @@
+[Nombre] de [Empresa] ([Membresía]). Número [Número en lista].
+Formación completada: [Unidades]. Reuniones 1 a 1: [Uno a uno].
+Negocio cerrado con [Miembro]: [Importe €].
+Referencias pasadas: [Número] ([Interna/Externa]).
+Servicio destacado: [Servicio]. Ventaja competitiva: [Ventaja].
+Historia: [Historia]. Cliente ideal: [Cliente ideal].
+Duración: [Duración] seg. Tono: [Tono]

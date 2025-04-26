@@ -1,10 +1,22 @@
-# BNI Pitch App
+# App BNI Pitch Generator
 
-Generador automático de presentaciones semanales para miembros BNI.
+App para generar presentaciones semanales de BNI de forma rápida.
 
 ## Cómo usar
-1. Configura `.env` con tu conexión MongoDB.
-2. Ejecuta `streamlit run app.py`.
-3. Disfruta generando tus presentaciones.
 
-Desarrollado por Fernando con ❤️ y IA.
+1. Completar datos de perfil una sola vez.
+2. Cada semana rellenar número de lista y aportaciones.
+3. Generar pitch automáticamente.
+
+## Instalación
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Despliegue en Streamlit Cloud
+
+- Conectar repositorio
+- Configurar `.env`
+- ¡Deploy!
